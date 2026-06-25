@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+    overflow-x: hidden;
+  }
+
+  body {
+    @apply font-sans bg-white text-brand-navy font-light;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+    width: 100%;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif font-normal;
+  }
+
+  /* Responsive Typography Base */
+  h1 { @apply text-4xl md:text-6xl lg:text-7xl tracking-tight; }
+  h2 { @apply text-3xl md:text-4xl lg:text-5xl tracking-tight; }
+  h3 { @apply text-2xl md:text-3xl tracking-wide; }
+}
+
+@layer utilities {
+  .clip-diagonal {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
+  }
+
+  @screen md {
+    .clip-diagonal {
+      clip-path: polygon(10% 0, 100% 0, 100% 100%, 0% 100%);
+    }
+  }
+
+  .touch-target {
+    @apply min-h-[44px] min-w-[44px] flex items-center justify-center;
+  }
+}

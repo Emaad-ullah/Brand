@@ -1,0 +1,893 @@
+ [
+  {
+    "id": 101,
+    "name": "Essential Oxford Shirt",
+    "category": "men",
+    "subCategory": "Shirts",
+    "price": 2800,
+    "image": "/images/Men/Men-shirt/shirt-1-navy-front.jpg",
+    "images": {
+      "black": {
+        "front": "/images/Men/Men-shirt/shirt-1-navy-front.jpg",
+        "close": "/images/Men/Men-shirt/shirt-1-navy-close.jpg"
+      },
+      "blue": {
+        "front": "/images/Men/Men-shirt/shirt-2-black-front.jpg",
+        "close": "/images/Men/Men-shirt/shirt-2-black-close.jpg"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "tags": [
+      "New Arrival",
+      "Trending"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Classic Linen Shirt",
+    "category": "men",
+    "subCategory": "Shirts",
+    "price": 3200,
+    "image": "/images/Men/Men-shirt/shirt-3-white-front.jpg",
+    "images": {
+      "black": {
+        "front": "/images/Men/Men-shirt/shirt-3-white-front.jpg",
+        "close": "/images/Men/Men-shirt/shirt-3-white-close.jpg"
+      },
+      "blue": {
+        "front": "/images/Men/Men-shirt/shirt-4-black-front.jpg",
+        "close": "/images/Men/Men-shirt/shirt-4-black-close.jpg"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "tags": [
+      "Trending",
+      "Sale"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Tailored Twill Shirt",
+    "category": "men",
+    "subCategory": "Shirts",
+    "price": 2600,
+    "image": "/images/Men/Men-shirt/shirt-5-grey-front.jpg",
+    "images": {
+      "black": {
+        "front": "/images/Men/Men-shirt/shirt-5-grey-front.jpg",
+        "close": "/images/Men/Men-shirt/shirt-5-grey-close.jpg"
+      },
+      "blue": {
+        "front": "/images/Men/Men-shirt/shirt-6-white-front.jpg",
+        "close": "/images/Men/Men-shirt/shirt-6-white-close.jpg"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "tags": [
+      "New Arrival"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Premium Cotton Shirt",
+    "category": "men",
+    "subCategory": "Shirts",
+    "price": 2400,
+    "image": "/images/Men/Men-shirt/shirt-7-green-front.jpg",
+    "images": {
+      "black": {
+        "front": "/images/Men/Men-shirt/shirt-7-green-front.jpg",
+        "close": "/images/Men/Men-shirt/shirt-7-green-close.jpg"
+      },
+      "blue": {
+        "front": "/images/Men/Men-shirt/shirt-8-white-front.jpg",
+        "close": "/images/Men/Men-shirt/shirt-8-white-close.jpg"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "tags": [
+      "Sale"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Casual Poplin Shirt",
+    "category": "men",
+    "subCategory": "Shirts",
+    "price": 2300,
+    "image": "/images/Men/Men-shirt/shirt-9-cream-front.jpg",
+    "images": {
+      "black": {
+        "front": "/images/Men/Men-shirt/shirt-9-cream-front.jpg",
+        "close": "/images/Men/Men-shirt/shirt-9-cream-close.jpg"
+      },
+      "blue": {
+        "front": "/images/Men/Men-shirt/shirt-10-grey-front.jpg",
+        "close": "/images/Men/Men-shirt/shirt-10-grey-close.jpg"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Signature Denim",
+    "category": "men",
+    "subCategory": "Pants",
+    "price": 4500,
+    "image": "/images/Men/Men-pants/pants-1-indigo-front.jpg",
+    "images": {
+      "black": {
+        "front": "/images/Men/Men-pants/pants-1-indigo-front.jpg",
+        "close": "/images/Men/Men-pants/pants-1-indigo-close.jpg"
+      },
+      "blue": {
+        "front": "/images/Men/Men-pants/pants-2-blue-front.jpg",
+        "close": "/images/Men/Men-pants/pants-2-blue-close.jpg"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34"
+    ],
+    "tags": []
+  },
+  {
+    "id": 202,
+    "name": "Modern Chinos",
+    "category": "men",
+    "subCategory": "Pants",
+    "price": 3800,
+    "image": "/images/Men/Men-pants/pants-3-blue-front.jpg",
+    "images": {
+      "black": {
+        "front": "/images/Men/Men-pants/pants-3-blue-front.jpg",
+        "close": "/images/Men/Men-pants/pants-3-blue-close.jpg"
+      },
+      "blue": {
+        "front": "/images/Men/Men-pants/pants-4-blue-front.jpg",
+        "close": "/images/Men/Men-pants/pants-4-blue-close.jpg"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "32",
+      "34"
+    ],
+    "tags": [
+      "Sale"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Slim Fit Trousers",
+    "category": "men",
+    "subCategory": "Pants",
+    "price": 4200,
+    "image": "/images/Men/Men-pants/pants-5-blue-front.jpg",
+    "images": {
+      "black": {
+        "front": "/images/Men/Men-pants/pants-5-blue-front.jpg",
+        "close": "/images/Men/Men-pants/pants-5-blue-close.jpg"
+      },
+      "blue": {
+        "front": "/images/Men/Men-pants/pants-6-blue-front.jpg",
+        "close": "/images/Men/Men-pants/pants-6-blue-close.jpg"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34"
+    ],
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Classic Work Pants",
+    "category": "men",
+    "subCategory": "Pants",
+    "price": 3600,
+    "image": "/images/Men/Men-pants/pants-7-black-front.jpg",
+    "images": {
+      "black": {
+        "front": "/images/Men/Men-pants/pants-7-black-front.jpg",
+        "close": "/images/Men/Men-pants/pants-7-black-close.jpg"
+      },
+      "blue": {
+        "front": "/images/Men/Men-pants/pants-8-beige-front.jpg",
+        "close": "/images/Men/Men-pants/pants-8-beige-close.jpg"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "32",
+      "34",
+      "36"
+    ],
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Urban Cargo Pants",
+    "category": "men",
+    "subCategory": "Pants",
+    "price": 3900,
+    "image": "/images/Men/Men-pants/pants-9-olive-front.jpg",
+    "images": {
+      "black": {
+        "front": "/images/Men/Men-pants/pants-9-olive-front.jpg",
+        "close": "/images/Men/Men-pants/pants-9-olive-close.jpg"
+      },
+      "blue": {
+        "front": "/images/Men/Men-pants/pants-10-khaki-front.jpg",
+        "close": "/images/Men/Men-pants/pants-10-khaki-close.jpg"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34"
+    ],
+    "tags": [
+      "Sale"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Straight Leg Chinos",
+    "category": "men",
+    "subCategory": "Pants",
+    "price": 3400,
+    "image": "/images/Men/Men-pants/pants-11-stone-front.jpg",
+    "images": {
+      "black": {
+        "front": "/images/Men/Men-pants/pants-11-stone-front.jpg",
+        "close": "/images/Men/Men-pants/pants-11-stone-close.jpg"
+      },
+      "blue": {
+        "front": "/images/Men/Men-pants/pants-12-black-front.jpg",
+        "close": "/images/Men/Men-pants/pants-12-black-close.jpg"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "32",
+      "34",
+      "36"
+    ],
+    "tags": [
+      "Essential"
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Canvas Utility Pants",
+    "category": "men",
+    "subCategory": "Pants",
+    "price": 3700,
+    "image": "/images/Men/Men-pants/pants-13-khaki-front.jpg",
+    "images": {
+      "black": {
+        "front": "/images/Men/Men-pants/pants-13-khaki-front.jpg",
+        "close": "/images/Men/Men-pants/pants-13-khaki-close.jpg"
+      },
+      "blue": {
+        "front": "/images/Men/Men-pants/pants-14-beige-front.jpg",
+        "close": "/images/Men/Men-pants/pants-14-beige-close.jpg"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34"
+    ],
+    "tags": [
+      "Sale"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Active Comfort Pants",
+    "category": "men",
+    "subCategory": "Pants",
+    "price": 4100,
+    "image": "/images/Men/Men-pants/pants-15-grey-front.jpg",
+    "images": {
+      "black": {
+        "front": "/images/Men/Men-pants/pants-15-grey-front.jpg",
+        "close": "/images/Men/Men-pants/pants-15-grey-close.jpg"
+      },
+      "blue": {
+        "front": "/images/Men/Men-pants/pants-16-blue-front.jpg",
+        "close": "/images/Men/Men-pants/pants-16-blue-close.jpg"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "30",
+      "32",
+      "34"
+    ],
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": 301,
+    "name": "Classic Denim Pants",
+    "category": "women",
+    "subCategory": "Pants",
+    "price": 3500,
+    "frontImage": "/images/Women/outfiters/women-pants/F0607209635lower_fafe337c-0398-492c-9be8-d3c5befc11f9.jpg",
+    "closeImage": "/images/Women/outfiters/women-pants/F0607209635lower_fafe337c-0398-492c-9be8-d3c5befc11f9 (1).jpg",
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "26",
+      "28",
+      "30"
+    ],
+    "tags": [
+      "New Arrival"
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Tailored Mid-Rise Jeans",
+    "category": "women",
+    "subCategory": "Pants",
+    "price": 3800,
+    "frontImage": "/images/Women/outfiters/women-pants/F0608209625LOWER.jpg",
+    "closeImage": "/images/Women/outfiters/women-pants/F0608209625LOWER (1).jpg",
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32"
+    ],
+    "tags": [
+      "Trending",
+      "Sale"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Straight Leg Denim",
+    "category": "women",
+    "subCategory": "Pants",
+    "price": 3600,
+    "frontImage": "/images/Women/outfiters/women-pants/F0612209622LOWERcopy.jpg",
+    "closeImage": "/images/Women/outfiters/women-pants/F0612209622LOWERcopy (1).jpg",
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "26",
+      "28",
+      "30"
+    ],
+    "tags": [
+      "New Arrival"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Relaxed Fit Pants",
+    "category": "women",
+    "subCategory": "Pants",
+    "price": 3400,
+    "frontImage": "/images/Women/outfiters/women-pants/F0616209909LOWER.jpg",
+    "closeImage": "/images/Women/outfiters/women-pants/F0616209909LOWER (1).jpg",
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "tags": []
+  },
+  {
+    "id": 305,
+    "name": "Urban Denim Trousers",
+    "category": "women",
+    "subCategory": "Pants",
+    "price": 4200,
+    "frontImage": "/images/Women/outfiters/women-pants/F0648209635LOWER.jpg",
+    "closeImage": "/images/Women/outfiters/women-pants/F0648209635LOWER (1).jpg",
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32"
+    ],
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": 401,
+    "name": "Essential Cotton Shirt",
+    "category": "women",
+    "subCategory": "Shirts",
+    "price": 2800,
+    "frontImage": "/images/Women/outfiters/women-shirt/F0647209909_4e31b262-05ea-4a00-9e87-2e7633158bde.jpg",
+    "closeImage": "/images/Women/outfiters/women-shirt/F0647209909_4e31b262-05ea-4a00-9e87-2e7633158bde.jpg",
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "tags": []
+  },
+  {
+    "id": 402,
+    "name": "Luxe Linen Blouse",
+    "category": "women",
+    "subCategory": "Shirts",
+    "price": 3200,
+    "frontImage": "/images/Women/outfiters/women-shirt/F0702209630-_b1477157-8e34-41a5-84a3-a62ba0214ff5.jpg",
+    "closeImage": "/images/Women/outfiters/women-shirt/F0702209630-_b1477157-8e34-41a5-84a3-a62ba0214ff5.jpg",
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "tags": [
+      "Trending"
+    ]
+  },
+  {
+    "id": 403,
+    "name": "Modern Poplin Shirt",
+    "category": "women",
+    "subCategory": "Shirts",
+    "price": 2900,
+    "frontImage": "/images/Women/outfiters/women-shirt/F0704209604-_4.jpg",
+    "closeImage": "/images/Women/outfiters/women-shirt/F0704209604-_4 (1).jpg",
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "tags": []
+  },
+  {
+    "id": 404,
+    "name": "Refined Casual Top",
+    "category": "women",
+    "subCategory": "Shirts",
+    "price": 2600,
+    "frontImage": "/images/Women/outfiters/women-shirt/F0705209620.jpg",
+    "closeImage": "/images/Women/outfiters/women-shirt/F0705209620 (1).jpg",
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "tags": [
+      "Sale"
+    ]
+  },
+  {
+    "id": 405,
+    "name": "Signature Silk Blouse",
+    "category": "women",
+    "subCategory": "Shirts",
+    "price": 4500,
+    "frontImage": "/images/Women/outfiters/women-shirt/F0707209619_9.jpg",
+    "closeImage": "/images/Women/outfiters/women-shirt/F0707209619_9.jpg",
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "tags": [
+      "Premium"
+    ]
+  },
+  {
+    "id": 501,
+    "name": "Junior Essential Pants",
+    "category": "junior",
+    "subCategory": "Pants",
+    "price": 2500,
+    "image": "/images/junior/junior-pants/s7-1342540_alternate15.jpeg",
+    "images": {
+      "black": {
+        "front": "/images/junior/junior-pants/s7-1342540_alternate15.jpeg",
+        "close": "/images/junior/junior-pants/s7-1297468_alternate3.webp"
+      },
+      "blue": {
+        "front": "/images/junior/junior-pants/s7-1418337_alternate15.webp",
+        "close": "/images/junior/junior-pants/s7-1418338_lifestyle.webp"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y"
+    ],
+    "tags": [
+      "New Arrival"
+    ]
+  },
+  {
+    "id": 502,
+    "name": "Junior Comfort Chinos",
+    "category": "junior",
+    "subCategory": "Pants",
+    "price": 2800,
+    "image": "/images/junior/junior-pants/s7-1321585_alternate3.webp",
+    "images": {
+      "black": {
+        "front": "/images/junior/junior-pants/s7-1321585_alternate3.webp",
+        "close": "/images/junior/junior-pants/s7-1321585_alternate10.webp"
+      },
+      "blue": {
+        "front": "/images/junior/junior-pants/s7-1507157_alternate1.webp",
+        "close": "/images/junior/junior-pants/s7-1321585_alternate2.avif"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y"
+    ],
+    "tags": []
+  },
+  {
+    "id": 503,
+    "name": "Junior Active Denim",
+    "category": "junior",
+    "subCategory": "Pants",
+    "price": 3200,
+    "image": "/images/junior/junior-pants/s7-1297468_alternate1 (1).webp",
+    "images": {
+      "black": {
+        "front": "/images/junior/junior-pants/s7-1297468_alternate1 (1).webp",
+        "close": "/images/junior/junior-pants/s7-1342540_alternate3.avif"
+      },
+      "blue": {
+        "front": "/images/junior/junior-pants/s7-1342540_alternate1 (1).webp",
+        "close": "/images/junior/junior-pants/s7-1297468_alternate2.avif"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y"
+    ],
+    "tags": [
+      "New Arrival"
+    ]
+  },
+  {
+    "id": 504,
+    "name": "Junior Urban Cargo",
+    "category": "junior",
+    "subCategory": "Pants",
+    "price": 2900,
+    "image": "/images/junior/junior-pants/s7-1491175_alternate3 (1).webp",
+    "images": {
+      "black": {
+        "front": "/images/junior/junior-pants/s7-1491175_alternate3 (1).webp",
+        "close": "/images/junior/junior-pants/s7-AI323963291501_alternate2 (1).webp"
+      },
+      "blue": {
+        "front": "/images/junior/junior-pants/s7-1418337_alternate3 (1).webp",
+        "close": "/images/junior/junior-pants/s7-1342540_alternate1.webp"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y"
+    ],
+    "tags": []
+  },
+  {
+    "id": 505,
+    "name": "Junior Daily Pants",
+    "category": "junior",
+    "subCategory": "Pants",
+    "price": 2200,
+    "image": "/images/junior/junior-pants/s7-1297468_alternate10.avif",
+    "images": {
+      "black": {
+        "front": "/images/junior/junior-pants/s7-1297468_alternate10.avif",
+        "close": "/images/junior/junior-pants/s7-AI323963291501_alternate2.webp"
+      },
+      "blue": {
+        "front": "/images/junior/junior-pants/s7-AI323963291501_lifestyle.avif",
+        "close": "/images/junior/junior-pants/s7-1418337_alternate15 (1).webp"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y"
+    ],
+    "tags": []
+  },
+  {
+    "id": 506,
+    "name": "Junior Modern Shirt",
+    "category": "junior",
+    "subCategory": "Shirts",
+    "price": 1800,
+    "image": "/images/junior/junior-shirt/s7-1483029_alternate10.webp",
+    "images": {
+      "black": {
+        "front": "/images/junior/junior-shirt/s7-1483029_alternate10.webp",
+        "close": "/images/junior/junior-shirt/s7-AI323A12748002_alternate10.avif"
+      },
+      "blue": {
+        "front": "/images/junior/junior-shirt/s7-AI323967600003_alternate2 (1).webp",
+        "close": "/images/junior/junior-shirt/s7-1300987_alternate1.avif"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y"
+    ],
+    "tags": []
+  },
+  {
+    "id": 507,
+    "name": "Junior Casual Blouse",
+    "category": "junior",
+    "subCategory": "Shirts",
+    "price": 1600,
+    "image": "/images/junior/junior-shirt/s7-1300987_alternate2 (1).webp",
+    "images": {
+      "black": {
+        "front": "/images/junior/junior-shirt/s7-1300987_alternate2 (1).webp",
+        "close": "/images/junior/junior-shirt/s7-1483029_lifestyle.avif"
+      },
+      "blue": {
+        "front": "/images/junior/junior-shirt/s7-1318274_alternate10.webp",
+        "close": "/images/junior/junior-shirt/s7-1300987_lifestyle.avif"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y"
+    ],
+    "tags": []
+  },
+  {
+    "id": 508,
+    "name": "Junior Summer Shirt",
+    "category": "junior",
+    "subCategory": "Shirts",
+    "price": 1500,
+    "image": "/images/junior/junior-shirt/s7-AI323A12748002_alternate2 (1).webp",
+    "images": {
+      "black": {
+        "front": "/images/junior/junior-shirt/s7-AI323A12748002_alternate2 (1).webp",
+        "close": "/images/junior/junior-shirt/s7-1300986_alternate2 (1).webp"
+      },
+      "blue": {
+        "front": "/images/junior/junior-shirt/s7-AI323967600003_alternate4 (1).webp",
+        "close": "/images/junior/junior-shirt/s7-1318274_alternate2.webp"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y"
+    ],
+    "tags": [
+      "New Arrival"
+    ]
+  },
+  {
+    "id": 509,
+    "name": "Junior Winter Jacket",
+    "category": "junior",
+    "subCategory": "Winter Wear",
+    "price": 4500,
+    "image": "/images/junior/junior-winter-wear/s7-1342382_alternate2.avif",
+    "images": {
+      "black": {
+        "front": "/images/junior/junior-winter-wear/s7-1342382_alternate2.avif",
+        "close": "/images/junior/junior-winter-wear/s7-1455546_lifestyle.avif"
+      },
+      "blue": {
+        "front": "/images/junior/junior-winter-wear/s7-AI323868894500_alternate10.webp",
+        "close": "/images/junior/junior-winter-wear/s7-1342382_alternate3.jpeg"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y"
+    ],
+    "tags": [
+      "New Arrival"
+    ]
+  },
+  {
+    "id": 510,
+    "name": "Junior Puffer Coat",
+    "category": "junior",
+    "subCategory": "Winter Wear",
+    "price": 4800,
+    "image": "/images/junior/junior-winter-wear/s7-1259152_lifestyle.webp",
+    "images": {
+      "black": {
+        "front": "/images/junior/junior-winter-wear/s7-1259152_lifestyle.webp",
+        "close": "/images/junior/junior-winter-wear/s7-1455617_alternate2 (1).webp"
+      },
+      "blue": {
+        "front": "/images/junior/junior-winter-wear/s7-AI323702674504_alternate1.jpeg",
+        "close": "/images/junior/junior-winter-wear/s7-1480650_alternate3.webp"
+      }
+    },
+    "colors": [
+      "#000000",
+      "#0000CD"
+    ],
+    "sizes": [
+      "4Y",
+      "6Y",
+      "8Y",
+      "10Y"
+    ],
+    "tags": []
+  }
+]

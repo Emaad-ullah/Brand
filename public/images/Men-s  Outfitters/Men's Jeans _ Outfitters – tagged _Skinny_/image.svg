@@ -1,0 +1,5 @@
+<svg class="icon icon-hamburger" xmlns="http://www.w3.org/2000/svg" width="16" height="20" viewBox="0 0 16 12" fill="black">
+                  <path fill-rule="evenodd" clip-rule="evenodd" d="M15.75 5.75C15.75 5.33579 15.4142 5 15 5H1C0.585786 5 0.25 5.33579 0.25 5.75C0.25 6.16421 0.585786 6.5 1 6.5H15C15.4142 6.5 15.75 6.16421 15.75 5.75Z" fill="black"></path>
+                  <path fill-rule="evenodd" clip-rule="evenodd" d="M15.75 0.75C15.75 0.335786 15.4142 0 15 0H1C0.585786 0 0.25 0.335786 0.25 0.75C0.25 1.16421 0.585786 1.5 1 1.5H15C15.4142 1.5 15.75 1.16421 15.75 0.75Z" fill="black"></path>
+                  <path fill-rule="evenodd" clip-rule="evenodd" d="M15.75 10.75C15.75 10.3358 15.4142 10 15 10H1C0.585786 10 0.25 10.3358 0.25 10.75C0.25 11.1642 0.585786 11.5 1 11.5H15C15.4142 11.5 15.75 11.1642 15.75 10.75Z" fill="black"></path>
+                </svg>
