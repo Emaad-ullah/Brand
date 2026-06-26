@@ -101,4 +101,15 @@ export default defineConfig({
     server: {
         port: 5177
     },
+    build: {
+        rollupOptions: {
+            output: {
+                manualChunks: {
+                    vendor: ['react', 'react-dom', 'react-router-dom'],
+                    framer: ['framer-motion'],
+                    icons: ['react-icons']
+                }
+            }
+        }
+    }
 })

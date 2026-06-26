@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { FiHeart, FiTrash2 } from 'react-icons/fi';
 import { motion, AnimatePresence } from 'framer-motion';
@@ -90,6 +90,7 @@ const ProductCard = ({ product }) => {
             src={isImageHovered && hoverImage ? hoverImage : displayImage}
             onError={(e) => { e.target.src = product.image || product.frontImage; }}
             alt={product.name}
+            loading="lazy"
             className="w-full h-full object-cover object-top"
           />
         </Link>
@@ -185,4 +186,4 @@ const ProductCard = ({ product }) => {
   );
 };
 
-export default ProductCard;
+export default React.memo(ProductCard);
